@@ -1,0 +1,19 @@
+# Белый список
+*
+!*/
+!*.py
+!*.ipynb
+!.gitignore
+
+# Всё удаляем
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+ВТСК/*
+Программирование/Практикум/labs/*
+Программирование/Практикум/*
+ТОД/dask_perfect/*
+UNSORTED/*
+.git/
+
+
